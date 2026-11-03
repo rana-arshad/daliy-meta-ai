@@ -84,3 +84,4 @@ src/
 - **Writing helper logic**: the on-device text heuristics live at the bottom of
   `src/components/dailymate/writing-helper.tsx` and can be extended freely.
 "# daliy-meta-ai" 
+"# daliy-meta-ai-" 
